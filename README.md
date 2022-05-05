@@ -3,5 +3,6 @@
 
 # May 05, 2022
 - Starting date
-- Finished Operators, Type error, Basic types
+- Finished Basic types, Type error Quiz, Operators
 - Finished JavaScript builtins, Inference, Functions
+- Finished Pluralize, Add or subtract, Using operators Quizzes
