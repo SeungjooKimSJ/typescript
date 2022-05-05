@@ -6,3 +6,4 @@
 - Finished Basic types, Type error Quiz, Operators
 - Finished JavaScript builtins, Inference, Functions
 - Finished Pluralize, Add or subtract, Using operators Quizzes
+- Finished Array
