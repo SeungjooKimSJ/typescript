@@ -4,3 +4,4 @@
 # May 05, 2022
 - Starting date
 - Finished Operators, Type error, Basic types
+- Finished JavaScript builtins
