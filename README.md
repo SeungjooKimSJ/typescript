@@ -3,10 +3,11 @@
 
 # May 05, 2022
 - TypeScript starting date
-- Finished Basic types, Type error Quiz, Operators
-- Finished JavaScript builtins, Inference, Functions
-- Finished Pluralize, Add or subtract, Using operators Quizzes
-- Finished Array, Array identity Quiz
+- Completed Basic types, Type error Quiz, Operators
+- Completed JavaScript builtins, Inference, Functions
+- Completed Pluralize, Add or subtract, Using operators Quizzes
+- Completed Array, Array identity Quiz
 
 # May 06, 2022
-- Finished Type keyword, Syntax errors vs type errors, Syntax error Quiz
+- Completed Type keyword, Syntax errors vs type errors, Syntax error Quiz
+- Completed Return type inference, Tuples
