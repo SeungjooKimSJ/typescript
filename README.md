@@ -9,5 +9,4 @@
 - Finished Array, Array identity Quiz
 
 # May 06, 2022
-- Finished Type keyword, Syntax errors vs type errors,
--
+- Finished Type keyword, Syntax errors vs type errors, Syntax error Quiz
